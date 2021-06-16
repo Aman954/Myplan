@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myplan/static/css/main.d76a2989.chunk.css",
+    "main.js": "/myplan/static/js/main.46c39d2b.chunk.js",
+    "main.js.map": "/myplan/static/js/main.46c39d2b.chunk.js.map",
+    "runtime-main.js": "/myplan/static/js/runtime-main.a0ac9dc5.js",
+    "runtime-main.js.map": "/myplan/static/js/runtime-main.a0ac9dc5.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/myplan/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.9cabc41e.chunk.js": "/myplan/static/js/2.9cabc41e.chunk.js",
+    "static/js/2.9cabc41e.chunk.js.map": "/myplan/static/js/2.9cabc41e.chunk.js.map",
+    "static/js/3.f07f5d80.chunk.js": "/myplan/static/js/3.f07f5d80.chunk.js",
+    "static/js/3.f07f5d80.chunk.js.map": "/myplan/static/js/3.f07f5d80.chunk.js.map",
+    "index.html": "/myplan/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/myplan/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.d76a2989.chunk.css.map": "/myplan/static/css/main.d76a2989.chunk.css.map",
+    "static/js/2.9cabc41e.chunk.js.LICENSE.txt": "/myplan/static/js/2.9cabc41e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0ac9dc5.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.9cabc41e.chunk.js",
+    "static/css/main.d76a2989.chunk.css",
+    "static/js/main.46c39d2b.chunk.js"
+  ]
+}
